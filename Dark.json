@@ -1,16 +1,14 @@
 {
-  "Theme": {
-    "text": {
+  "Dark": {
+    "background": {
       "default": {
-        "value": "#fafafa",
+        "value": "#171717",
         "type": "color"
       },
-      "primary": {
-        "value": "#ffffff",
+      "warning": {
+        "value": "#ff7f57",
         "type": "color"
-      }
-    },
-    "background": {
+      },
       "error": {
         "value": "#e54c4c",
         "type": "color"
@@ -18,17 +16,15 @@
       "primary": {
         "value": "#3198a3",
         "type": "color"
-      },
-      "warning": {
-        "value": "#ff7f57",
-        "type": "color"
-      },
+      }
+    },
+    "text": {
       "default": {
-        "value": "#171717",
+        "value": "#fafafa",
         "type": "color"
       },
-      "lighter": {
-        "value": "#232323",
+      "primary": {
+        "value": "#ffffff",
         "type": "color"
       }
     }
