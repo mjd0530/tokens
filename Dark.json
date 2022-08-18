@@ -1,32 +1,18 @@
 {
-  "Dark": {
+  "theme": {
     "background": {
       "default": {
-        "value": "#171717",
-        "type": "color"
-      },
-      "warning": {
-        "value": "#ff7f57",
-        "type": "color"
-      },
-      "error": {
-        "value": "#e54c4c",
-        "type": "color"
-      },
-      "primary": {
-        "value": "#3198a3",
-        "type": "color"
+        "value": "{Greyscale.Grey900}",
+        "type": "color",
+        "description": "Canvas"
       }
-    },
-    "text": {
-      "default": {
-        "value": "#fafafa",
-        "type": "color"
-      },
-      "primary": {
-        "value": "#ffffff",
-        "type": "color"
-      }
+    }
+  },
+  "background": {
+    "lighter": {
+      "value": "{Dark.background.lighter}",
+      "type": "color",
+      "description": "Cards"
     }
   }
 }

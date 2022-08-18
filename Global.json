@@ -496,6 +496,10 @@
       "default": {
         "value": "#171717",
         "type": "color"
+      },
+      "primary": {
+        "value": "#ffffff",
+        "type": "color"
       }
     }
   },
@@ -503,6 +507,10 @@
     "background": {
       "default": {
         "value": "#171717",
+        "type": "color"
+      },
+      "lighter": {
+        "value": "#232323",
         "type": "color"
       },
       "warning": {
@@ -521,6 +529,54 @@
     "text": {
       "default": {
         "value": "#fafafa",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  },
+  "hctAquatic": {
+    "selected text": {
+      "value": "#263b50",
+      "type": "color"
+    },
+    "background": {
+      "default": {
+        "value": "#202020",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#202020",
+        "type": "color"
+      },
+      "active": {
+        "value": "#8ee3f0",
+        "type": "color"
+      }
+    },
+    "text": {
+      "defalut": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "#a6a6a6",
+        "type": "color"
+      },
+      "hyperlink": {
+        "value": "#75e9fc",
+        "type": "color"
+      }
+    },
+    "boarder": {
+      "default": {
+        "value": "#ffffff",
         "type": "color"
       }
     }

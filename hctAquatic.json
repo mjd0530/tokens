@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "background": {
+      "default": {
+        "value": "{hctAquatic.background.default}",
+        "type": "color",
+        "description": "Canvas"
+      }
+    }
+  }
+}
