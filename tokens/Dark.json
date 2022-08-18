@@ -1,0 +1,36 @@
+{
+  "Theme": {
+    "text": {
+      "default": {
+        "value": "#fafafa",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "background": {
+      "error": {
+        "value": "#e54c4c",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#3198a3",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#ff7f57",
+        "type": "color"
+      },
+      "default": {
+        "value": "#171717",
+        "type": "color"
+      },
+      "lighter": {
+        "value": "#232323",
+        "type": "color"
+      }
+    }
+  }
+}
