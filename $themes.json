@@ -1,5 +1,21 @@
 [
   {
+    "id": "64b5d550fc730fc244993cc8d2baeb357e467d63",
+    "name": "Dark",
+    "selectedTokenSets": {
+      "Global": "source",
+      "Light": "disabled",
+      "Dark": "enabled"
+    },
+    "$figmaStyleReferences": {
+      "Theme.text.default": "S:2da26b684670ca4b1cdad80eb9de0e86fdebf275,",
+      "Theme.background.primary": "S:92a994c03df8259102a2bf48eeb9cc2c260b1355,",
+      "Theme.background.default": "S:45c47800da6f0156a8fb0710872213a83c4dd696,",
+      "Theme.text.primary": "S:64f9f936f13862802970a44c8614fcd47c934dd3,",
+      "Theme.background.lighter": "S:a9baa96dca9b5b444df436505dfaf6b10c5c1a1d,"
+    }
+  },
+  {
     "id": "d21cac813d55d9fcf124506bb8e10d441d746daa",
     "name": "Light",
     "selectedTokenSets": {
@@ -16,22 +32,6 @@
       "Theme.background.lighter": "S:a9baa96dca9b5b444df436505dfaf6b10c5c1a1d,",
       "Theme.background.default": "S:45c47800da6f0156a8fb0710872213a83c4dd696,",
       "Theme.text.primary": "S:64f9f936f13862802970a44c8614fcd47c934dd3,"
-    }
-  },
-  {
-    "id": "64b5d550fc730fc244993cc8d2baeb357e467d63",
-    "name": "Dark",
-    "selectedTokenSets": {
-      "Global": "source",
-      "Light": "disabled",
-      "Dark": "enabled"
-    },
-    "$figmaStyleReferences": {
-      "Theme.text.default": "S:2da26b684670ca4b1cdad80eb9de0e86fdebf275,",
-      "Theme.background.primary": "S:92a994c03df8259102a2bf48eeb9cc2c260b1355,",
-      "Theme.background.default": "S:45c47800da6f0156a8fb0710872213a83c4dd696,",
-      "Theme.text.primary": "S:64f9f936f13862802970a44c8614fcd47c934dd3,",
-      "Theme.background.lighter": "S:a9baa96dca9b5b444df436505dfaf6b10c5c1a1d,"
     }
   }
 ]
