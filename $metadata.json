@@ -2,8 +2,6 @@
   "tokenSetOrder": [
     "global",
     "Light",
-    "Dark",
-    "hctAquatic",
-    "Dark1"
+    "Dark"
   ]
 }
