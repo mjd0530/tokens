@@ -123,6 +123,10 @@
     }
   },
   "boarder": {
+    "onDefault": {
+      "value": "#fff",
+      "type": "color"
+    },
     "default": {
       "value": "#dddddd",
       "type": "color",
