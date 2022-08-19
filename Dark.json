@@ -1,18 +1,166 @@
 {
-  "theme": {
-    "background": {
-      "default": {
-        "value": "{Greyscale.Grey900}",
-        "type": "color",
-        "description": "Canvas"
+  "background": {
+    "default": {
+      "value": "#171717",
+      "type": "color"
+    },
+    "lighter": {
+      "value": "#232323",
+      "type": "color"
+    },
+    "light": {
+      "value": "#333333",
+      "type": "color"
+    },
+    "dark": {
+      "value": "#dddddd",
+      "type": "color",
+      "description": "Tooltip background"
+    },
+    "darker": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#ff7f57",
+      "type": "color",
+      "lighter": {
+        "value": "#fbe9e7",
+        "type": "color"
+      }
+    },
+    "error": {
+      "value": "#e54c4c",
+      "type": "color",
+      "lighter": {
+        "value": "#ffebee",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "value": "#3198a3",
+      "type": "color",
+      "hover": {
+        "value": "#29818a",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#3198a399",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "value": "#777777",
+      "type": "color",
+      "hover": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#77777799",
+        "type": "color"
       }
     }
   },
-  "background": {
+  "text": {
+    "default": {
+      "value": "#fafafa",
+      "type": "color"
+    },
     "lighter": {
-      "value": "{Dark.background.lighter}",
+      "value": "#f5f5f5",
+      "type": "color"
+    },
+    "light": {
+      "value": "#cccccc",
+      "type": "color"
+    },
+    "dark": {
+      "value": "#171717",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#fafafa",
       "type": "color",
-      "description": "Cards"
+      "hover": {
+        "value": "#fafafa",
+        "type": "color"
+      }
+    }
+  },
+  "boarder": {
+    "default": {
+      "value": "#777777",
+      "type": "color"
+    },
+    "lighter": {
+      "value": "#333333",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#007b86",
+      "type": "color",
+      "description": "*"
+    },
+    "secondary": {
+      "value": "#777777",
+      "type": "color",
+      "description": "*"
+    },
+    "warning": {
+      "value": "#ff7f57",
+      "type": "color",
+      "disabled": {
+        "value": "#ff7f5799",
+        "type": "color"
+      }
+    },
+    "error": {
+      "value": "#e54c4c",
+      "type": "color",
+      "disabled": {
+        "value": "#e54c4c99",
+        "type": "color"
+      }
+    }
+  },
+  "icon": {
+    "default": {
+      "value": "#fafafa",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#fafafa99",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#ffffff",
+      "type": "color",
+      "selected": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "* accounting for toggle button"
+      },
+      "disabled": {
+        "value": "#ffffff99",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "value": "#ff7f57",
+      "type": "color",
+      "disabled": {
+        "value": "#ff7f5799",
+        "type": "color"
+      }
+    },
+    "error": {
+      "value": "#e54c4c",
+      "type": "color",
+      "disabled": {
+        "value": "#e54c4c99",
+        "type": "color"
+      }
     }
   }
 }

@@ -1,18 +1,171 @@
 {
-  "theme": {
-    "background": {
+  "background": {
+    "default": {
+      "value": "#fafafa",
+      "type": "color"
+    },
+    "lighter": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "light": {
+      "value": "#f5f5f5",
+      "type": "color"
+    },
+    "dark": {
+      "value": "#171717",
+      "type": "color"
+    },
+    "darker": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#00838f",
+      "type": "color",
+      "hover": {
+        "value": "#006064",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#00838f99",
+        "type": "color"
+      }
+    },
+    "secondary": {
       "default": {
-        "value": "{Greyscale.Grey100}",
-        "type": "color",
-        "description": "Canvas"
+        "value": "#f5f5f5",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#eeeeee",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#eeeeee99",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "value": "#d84315",
+      "type": "color",
+      "lighter": {
+        "value": "#fbe9e7",
+        "type": "color"
+      }
+    },
+    "error": {
+      "value": "#c62828",
+      "type": "color",
+      "lighter": {
+        "value": "#ffebee",
+        "type": "color"
       }
     }
   },
-  "background": {
-    "lighter": {
-      "value": "{Light.background.lighter}",
+  "text": {
+    "default": {
+      "value": "#171717",
       "type": "color",
-      "description": "Cards"
+      "description": "Text"
+    },
+    "lighter": {
+      "value": "#232323",
+      "type": "color",
+      "description": "Subtext"
+    },
+    "light": {
+      "value": "#333333",
+      "type": "color"
+    },
+    "dark": {
+      "value": "#fafafa",
+      "type": "color",
+      "description": "Tooltip text"
+    },
+    "hover": {
+      "value": "#171717",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#ffffff",
+      "type": "color",
+      "hover": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  },
+  "boarder": {
+    "default": {
+      "value": "#dddddd",
+      "type": "color",
+      "description": "HR, forms"
+    },
+    "lighter": {
+      "value": "#eeeeee",
+      "type": "color",
+      "description": "Graphs"
+    },
+    "primary": {
+      "value": "#006064",
+      "type": "color",
+      "description": "Primary boarder on primary button focus"
+    },
+    "secondary": {
+      "value": "#777777",
+      "type": "color",
+      "description": "Secondary boarder on secondary button focus"
+    },
+    "warning": {
+      "value": "#d84315",
+      "type": "color",
+      "disabled": {
+        "value": "#d8431599",
+        "type": "color"
+      }
+    },
+    "error": {
+      "value": "#c62828",
+      "type": "color",
+      "disabled": {
+        "value": "#c6282899",
+        "type": "color"
+      }
+    }
+  },
+  "icon": {
+    "disabled": {
+      "value": "#17171799",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#d84315",
+      "type": "color"
+    },
+    "error": {
+      "value": "#c62828",
+      "type": "color",
+      "disabled": {
+        "value": "#c6282899",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "value": "#ffffff",
+      "type": "color",
+      "selected": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#ffffff99",
+        "type": "color"
+      }
+    },
+    "default": {
+      "value": "#171717",
+      "type": "color"
     }
   }
 }
