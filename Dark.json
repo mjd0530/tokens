@@ -162,10 +162,6 @@
         "value": "#c6282899",
         "type": "color"
       }
-    },
-    "onDefault": {
-      "value": "{Greyscale.Grey800}",
-      "type": "color"
     }
   },
   "icon": {
