@@ -6,7 +6,8 @@
       "global": "source",
       "Light": "disabled",
       "hctAquatic": "disabled",
-      "Dark": "enabled"
+      "Dark": "enabled",
+      "Freestyle 2.0": "disabled"
     },
     "$figmaStyleReferences": {
       "background.default": "S:915ddcc11cd44a8fd34778c5dcda8ec64e5af994,",
@@ -57,7 +58,8 @@
       "global": "source",
       "Light": "enabled",
       "hctAquatic": "disabled",
-      "Dark": "disabled"
+      "Dark": "disabled",
+      "Freestyle 2.0": "disabled"
     },
     "$figmaStyleReferences": {
       "background.default": "S:e3a66e0491609a947f27b444f1378c5e742b5a8e,",
@@ -109,7 +111,8 @@
       "global": "source",
       "Light": "disabled",
       "hctAquatic": "enabled",
-      "Dark": "disabled"
+      "Dark": "disabled",
+      "Freestyle 2.0": "disabled"
     },
     "$figmaStyleReferences": {
       "background.default": "S:280db89b2ba75202a254cd5a8e893b58e1e75874,",
@@ -152,6 +155,59 @@
       "icon.onDefault": "S:6a63b836b8c9e9a7c15acfd5151d0d43ae420a6f,",
       "icon.onDefalut-hover": "S:88e0155ba8d41c4faac2022f49bc4e4770eb6b98,",
       "background.primary-hover": "S:8b481513829ac554a3e47e7837be4b53c6f67b0b,"
+    }
+  },
+  {
+    "id": "0e4ae1d538088cbb7d220153ece4c5287375d7ad",
+    "name": "Freestyle 2.0",
+    "selectedTokenSets": {
+      "global": "source",
+      "Light": "enabled",
+      "Dark": "disabled",
+      "hctAquatic": "disabled",
+      "Freestyle 2.0": "disabled"
+    },
+    "$figmaStyleReferences": {
+      "background.default": "S:7700a4a81f2488f5dda724e5f770084db6ce36fe,",
+      "background.lighter": "S:b5edc8fd8c24bbdfe3a88f310298295d327f39a3,",
+      "background.light": "S:5c203b2909096e01d601f1bf8d39c8da4a357f2e,",
+      "background.dark": "S:a8c143581dd958d47e985310933dc3c018accee2,",
+      "background.darker": "S:e5a8a25b31ca523a57bdc0f082a178705849af9d,",
+      "background.primary": "S:0df39ad3156d0d222b701bda79e108e1b6d11276,",
+      "background.warning": "S:53f4c584547c69b6cf86d663e5f98fca75245e83,",
+      "background.warning-lighter": "S:6097a2f3514936143f47c57d44cf3c4058d63ed9,",
+      "background.error": "S:d359902996fe8daf790adc987a149ba37d0486e7,",
+      "background.error-lighter": "S:f09458184e670034523de9dc8921ffda8766d82e,",
+      "background.secondary": "S:0320660679895061a45134e14e15d212c94e8811,",
+      "background.secondary-hover": "S:584482a0d3215b01044f76b478540d6a99a499d1,",
+      "background.primary-hover": "S:914a88bae7b70c709c3f0cdbcb6646ae84f1e276,",
+      "text.default": "S:29e5fbc6c0a7af86a7190ebee197f5f5556529f7,",
+      "text.lighter": "S:f625acf2745d3b642db63a9f75c2a6618ebea08d,",
+      "text.light": "S:9960780619652a4ab220c5ef5df407fa8a8a23e9,",
+      "text.dark": "S:f80f62444c1ac2e257913d38feec53347261b3da,",
+      "text.hover": "S:40579e846cd34e3be2e326c87153000cbdc66bdd,",
+      "text.onPrimary": "S:9fbfb99cf637115d6f322dd27668b2cc0740aeb3,",
+      "text.secondary": "S:8f90484734c6985dbf9ca63d3b67684c05920c1d,",
+      "text.secondary-hover": "S:16fedb2c9aa34aa7901f7edb6dfba031ed06a7c7,",
+      "text.onDefault": "S:e2ffa003f70926ab2713c7c4b5dd46a3fb6eb810,",
+      "text.onDefault-hover": "S:ea1f184930a9ded2fcc4bf9e5c5d332c68dae697,",
+      "boarder.onDefault": "S:122e13d4a38580efd36bd6892e2163d70aeeff87,",
+      "boarder.default": "S:920bdcf60bf08109d918019268a585a82a74fa7d,",
+      "boarder.lighter": "S:865933ee125619fa5ff571d32fe9e72005dc3905,",
+      "boarder.primary": "S:8cf53e4fa20c58fc32fb81a2b7236bb595e0320b,",
+      "boarder.secondary": "S:6ab5590167c1b146b4c1a979d2473940c66057d2,",
+      "boarder.warning": "S:6ecc5545d1f5951cbaac04263350a168073f4d6e,",
+      "boarder.error": "S:fc56223f4a1ae9d6c0dc083dcde0382a59c253c9,",
+      "boarder.primary-focus": "S:68ec109fda88e46d35e64f554b648977219bdd07,",
+      "icon.default": "S:9943baeebad69908ffc5292f126fee72b8618334,",
+      "icon.disabled": "S:dc04d340325e79c1bbf93678cb8a00845a1f975e,",
+      "icon.warning": "S:34bf1867c55a3dd02252b478442bafa9d73201f3,",
+      "icon.error": "S:4d90b96508f87ba0310c29a00ff814b2dcf4d2f6,",
+      "icon.onPrimary": "S:e34b3712d262818311135ec70b7831732cf256b9,",
+      "icon.secondary": "S:082a75bd5485827a135a7272a29de9caddbe408b,",
+      "icon.secondary-hover": "S:6a51c64d53a99b76103e1ac377de01473d387634,",
+      "icon.onDefault": "S:b19839840ead21c0ea0e56992c55abb2f8d99e49,",
+      "icon.onDefalut-hover": "S:dd9792c6283b092064ef63ee02c3ab8b8b27da15,"
     }
   }
 ]

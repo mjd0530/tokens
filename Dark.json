@@ -166,6 +166,10 @@
         "value": "#c6282899",
         "type": "color"
       }
+    },
+    "primary-focus": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color"
     }
   },
   "icon": {
