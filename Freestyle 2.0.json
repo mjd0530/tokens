@@ -1,11 +1,11 @@
 {
   "background": {
     "default": {
-      "value": "{Greyscale.Grey100}",
+      "value": "#F4F4F4",
       "type": "color"
     },
     "lighter": {
-      "value": "{White}",
+      "value": "#FAFAFA",
       "type": "color"
     },
     "light": {

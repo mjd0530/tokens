@@ -162,10 +162,10 @@
     "name": "Freestyle 2.0",
     "selectedTokenSets": {
       "global": "source",
-      "Light": "enabled",
+      "Light": "disabled",
       "Dark": "disabled",
       "hctAquatic": "disabled",
-      "Freestyle 2.0": "disabled"
+      "Freestyle 2.0": "enabled"
     },
     "$figmaStyleReferences": {
       "background.default": "S:7700a4a81f2488f5dda724e5f770084db6ce36fe,",
