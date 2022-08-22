@@ -5,18 +5,6 @@
     "selectedTokenSets": {
       "global": "source",
       "Light": "enabled",
-      "Dark": "disabled",
-      "hctAquatic": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "e2526346a295fac8d6493015c6c66465bc9378a1",
-    "name": "Dark",
-    "selectedTokenSets": {
-      "global": "source",
-      "Light": "disabled",
-      "Dark": "enabled",
       "hctAquatic": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -27,8 +15,18 @@
     "selectedTokenSets": {
       "global": "source",
       "Light": "disabled",
-      "Dark": "disabled",
       "hctAquatic": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e2526346a295fac8d6493015c6c66465bc9378a1",
+    "name": "Dark",
+    "selectedTokenSets": {
+      "global": "source",
+      "Light": "disabled",
+      "hctAquatic": "disabled",
+      "Dark1": "enabled"
     },
     "$figmaStyleReferences": {}
   }
