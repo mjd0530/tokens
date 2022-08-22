@@ -71,6 +71,10 @@
     "secondary-hover": {
       "value": "{Greyscale.Grey500}",
       "type": "color"
+    },
+    "primary-hover": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color"
     }
   },
   "text": {
