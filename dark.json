@@ -106,12 +106,9 @@
       "type": "color"
     },
     "onPrimary": {
-      "value": "#ffffff",
+      "value": "#3198A3",
       "type": "color",
-      "hover": {
-        "value": "#ffffff",
-        "type": "color"
-      }
+      "description": "Text color on primary background"
     },
     "secondary": {
       "value": "{Greyscale.Grey900}",
@@ -121,11 +118,7 @@
       "value": "{Greyscale.Grey900}",
       "type": "color"
     },
-    "onDefault": {
-      "value": "#3198A3",
-      "type": "color"
-    },
-    "onDefault-disabled": {
+    "onPrimary-disabled": {
       "value": "rgba(255,255,255,0.6)",
       "type": "color"
     }

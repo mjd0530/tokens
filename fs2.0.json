@@ -129,7 +129,7 @@
       "value": "{Cyan.Cyan900}",
       "type": "color"
     },
-    "onDefault-disabled": {
+    "onPrimary-disabled": {
       "value": "#8A8993",
       "type": "color"
     }
@@ -232,6 +232,10 @@
     },
     "onDefalut-hover": {
       "value": "{Cyan.Cyan900}",
+      "type": "color"
+    },
+    "onPrimary-disabled": {
+      "value": "#8A8993",
       "type": "color"
     }
   }

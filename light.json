@@ -110,13 +110,9 @@
       "type": "color"
     },
     "onPrimary": {
-      "value": "#ffffff",
+      "value": "{Cyan.Cyan800}",
       "type": "color",
-      "hover": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "description": "Tex on primary background"
+      "description": "Text on default background"
     },
     "secondary": {
       "value": "{Greyscale.Grey900}",
@@ -127,16 +123,11 @@
       "value": "{Greyscale.Grey900}",
       "type": "color"
     },
-    "onDefault": {
-      "value": "{Cyan.Cyan800}",
-      "type": "color",
-      "description": "Text on default background"
-    },
-    "onDefault-hover": {
+    "onPrimary-hover": {
       "value": "{Cyan.Cyan900}",
       "type": "color"
     },
-    "onDefault-disabled": {
+    "onPrimary-disabled": {
       "value": "rgba(255,255,255,0.6)",
       "type": "color",
       "description": "Text on default disabled background"
@@ -217,17 +208,9 @@
       }
     },
     "onPrimary": {
-      "value": "#ffffff",
+      "value": "{Cyan.Cyan800}",
       "type": "color",
-      "selected": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "#ffffff99",
-        "type": "color"
-      },
-      "description": "Icon on primary background"
+      "description": "Icon on default background"
     },
     "secondary": {
       "value": "{Greyscale.Grey900}",
@@ -237,13 +220,13 @@
       "value": "{Greyscale.Grey900}",
       "type": "color"
     },
-    "onDefault": {
-      "value": "{Cyan.Cyan800}",
-      "type": "color",
-      "description": "Icon on default background"
-    },
-    "onDefalut-hover": {
+    "onPrimary-hover": {
       "value": "{Cyan.Cyan900}",
+      "type": "color",
+      "description": "Icon on defalut background on hover"
+    },
+    "onPrimary-disabled": {
+      "value": "rgba(255,255,255,0.6)",
       "type": "color",
       "description": "Icon on defalut background on hover"
     }
