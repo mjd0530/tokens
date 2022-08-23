@@ -163,6 +163,16 @@
       "type": "color",
       "description": "Boarder on primary backgrounds"
     },
+    "primary-hover": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color",
+      "description": "Boarder on primary background on hover"
+    },
+    "primary-focus": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color",
+      "description": "Boarder on primary backgrounds on focus"
+    },
     "secondary": {
       "value": "#777777",
       "type": "color",
@@ -183,11 +193,6 @@
         "value": "#c6282899",
         "type": "color"
       }
-    },
-    "primary-focus": {
-      "value": "{Cyan.Cyan900}",
-      "type": "color",
-      "description": "Boarder on primary backgrounds on focus"
     }
   },
   "icon": {
@@ -242,5 +247,9 @@
       "type": "color",
       "description": "Icon on defalut background on hover"
     }
+  },
+  "default": {
+    "value": "2",
+    "type": "borderWidth"
   }
 }

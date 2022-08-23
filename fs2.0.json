@@ -154,6 +154,15 @@
       "type": "color",
       "description": "Primary boarder on primary button focus"
     },
+    "primary-hover": {
+      "value": "#7A126B",
+      "type": "color",
+      "description": "Primary boarder on primary hover"
+    },
+    "primary-focus": {
+      "value": "#B18DFF",
+      "type": "color"
+    },
     "secondary": {
       "value": "#777777",
       "type": "color",
@@ -174,10 +183,6 @@
         "value": "#c6282899",
         "type": "color"
       }
-    },
-    "primary-focus": {
-      "value": "#B18DFF",
-      "type": "color"
     }
   },
   "icon": {

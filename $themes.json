@@ -149,7 +149,7 @@
       "boarder.secondary": "S:e9ef06711281ff482335a506489de357d601fc23,",
       "boarder.warning": "S:3a9a0dd2a1ea2f13de70252d7eb553b4c7a28f2d,",
       "boarder.error": "S:5c9ed1cb172ea35dc5280bb420304934cb991fcb,",
-      "boarder.primary-hover": "S:2ce96817f91d07d23db4373c9ee49d244c16d6d9,",
+      "boarder.primary-hover": "S:7eea927459c297de56f59f3e091d0b0ffd55d191,",
       "icon.default": "S:24afe99f251a366370ed246446bcca1218c7cd98,",
       "icon.disabled": "S:4ba6730fd43d409740cbc7e479054515b5c8bd05,",
       "icon.warning": "S:32d7b34e1c58ae08d622a61eaf558dfedf55219f,",
@@ -218,7 +218,8 @@
       "icon.onDefault": "S:6f7fb3aff43bb55e37f7ca1bcc0ca00f12f081b8,",
       "icon.onDefalut-hover": "S:8e884f064f830e185f71e097e1fb9b6317010c13,",
       "background.primary-disabled": "S:312c53066c7fd5b017e71eff518dab73f4a075a6,",
-      "text.onDefault-disabled": "S:b29790856142f13bbfba7b54fefa2e0066127071,"
+      "text.onDefault-disabled": "S:b29790856142f13bbfba7b54fefa2e0066127071,",
+      "boarder.primary-hover": "S:ab7fec2bb1a392ec84d94efac0ffd78c5bb2105a,"
     }
   },
   {
