@@ -2,11 +2,13 @@
   "background": {
     "default": {
       "value": "{Greyscale.Grey100}",
-      "type": "color"
+      "type": "color",
+      "description": "Canvas"
     },
     "lighter": {
       "value": "{White}",
-      "type": "color"
+      "type": "color",
+      "description": "Cards"
     },
     "light": {
       "value": "{Greyscale.Grey200}",
@@ -30,7 +32,8 @@
       "disabled": {
         "value": "rgba(0,131,143,0.6)",
         "type": "color"
-      }
+      },
+      "description": "Buttons"
     },
     "primary-hover": {
       "value": "{Cyan.Cyan900}",
@@ -74,7 +77,8 @@
     },
     "secondary": {
       "value": "{Greyscale.Grey400}",
-      "type": "color"
+      "type": "color",
+      "description": "Buttons"
     },
     "secondary-hover": {
       "value": "{Greyscale.Grey500}",
@@ -111,11 +115,13 @@
       "hover": {
         "value": "#ffffff",
         "type": "color"
-      }
+      },
+      "description": "Tex on primary background"
     },
     "secondary": {
       "value": "{Greyscale.Grey900}",
-      "type": "color"
+      "type": "color",
+      "description": "Text on secondary background"
     },
     "secondary-hover": {
       "value": "{Greyscale.Grey900}",
@@ -123,7 +129,8 @@
     },
     "onDefault": {
       "value": "{Cyan.Cyan800}",
-      "type": "color"
+      "type": "color",
+      "description": "Text on default background"
     },
     "onDefault-hover": {
       "value": "{Cyan.Cyan900}",
@@ -131,13 +138,15 @@
     },
     "onDefault-disabled": {
       "value": "rgba(255,255,255,0.6)",
-      "type": "color"
+      "type": "color",
+      "description": "Text on default disabled background"
     }
   },
   "boarder": {
     "onDefault": {
       "value": "#fff",
-      "type": "color"
+      "type": "color",
+      "description": "Boarder on default background"
     },
     "default": {
       "value": "#dddddd",
@@ -152,12 +161,12 @@
     "primary": {
       "value": "{Cyan.Cyan800}",
       "type": "color",
-      "description": "Primary boarder on primary button focus"
+      "description": "Boarder on primary backgrounds"
     },
     "secondary": {
       "value": "#777777",
       "type": "color",
-      "description": "Secondary boarder on secondary button focus"
+      "description": "Boarder on secondary backgrounds"
     },
     "warning": {
       "value": "#d84315",
@@ -177,7 +186,8 @@
     },
     "primary-focus": {
       "value": "{Cyan.Cyan900}",
-      "type": "color"
+      "type": "color",
+      "description": "Boarder on primary backgrounds on focus"
     }
   },
   "icon": {
@@ -211,7 +221,8 @@
       "disabled": {
         "value": "#ffffff99",
         "type": "color"
-      }
+      },
+      "description": "Icon on primary background"
     },
     "secondary": {
       "value": "{Greyscale.Grey900}",
@@ -223,11 +234,13 @@
     },
     "onDefault": {
       "value": "{Cyan.Cyan800}",
-      "type": "color"
+      "type": "color",
+      "description": "Icon on default background"
     },
     "onDefalut-hover": {
       "value": "{Cyan.Cyan900}",
-      "type": "color"
+      "type": "color",
+      "description": "Icon on defalut background on hover"
     }
   }
 }
