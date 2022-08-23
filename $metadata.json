@@ -1,9 +1,9 @@
 {
   "tokenSetOrder": [
     "global",
-    "Light",
-    "Dark",
+    "light",
+    "dark",
     "hctAquatic",
-    "Freestyle 2.0"
+    "fs2.0"
   ]
 }
