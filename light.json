@@ -230,9 +230,5 @@
       "type": "color",
       "description": "Icon on defalut background on hover"
     }
-  },
-  "default": {
-    "value": "2",
-    "type": "borderWidth"
   }
 }

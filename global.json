@@ -464,5 +464,60 @@
       "value": "#fff8e1",
       "type": "color"
     }
+  },
+  "boarder-radius-small": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "boarder-radius-medium": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "boarder-radius-large": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "boarder-radius-large-top": {
+    "value": "{boarder-radius-large}",
+    "type": "borderRadius"
+  },
+  "boarder-radius-larger": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "box-shadow-small": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "4",
+      "spread": "0",
+      "color": "rgba(0,0,0,0.08)",
+      "type": "innerShadow"
+    },
+    "type": "boxShadow"
+  },
+  "boarder-width-small": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "boarder-width-default": {
+    "value": "2",
+    "type": "borderWidth"
+  },
+  "type-small": {
+    "value": {
+      "fontFamily": "Segoe UI",
+      "fontWeight": "700",
+      "fontSize": "14"
+    },
+    "type": "typography"
+  },
+  "type-base": {
+    "value": {
+      "fontFamily": "Segoe UI",
+      "fontWeight": "400",
+      "fontSize": "16px"
+    },
+    "type": "typography"
   }
 }
