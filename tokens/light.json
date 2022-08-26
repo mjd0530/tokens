@@ -1,29 +1,29 @@
 {
   "background": {
     "default": {
-      "value": "{Greyscale.Grey100}",
+      "value": "{slate.50}",
       "type": "color",
       "description": "Canvas"
     },
     "lighter": {
-      "value": "{White}",
+      "value": "{white}",
       "type": "color",
       "description": "Cards"
     },
     "light": {
-      "value": "{Greyscale.Grey200}",
+      "value": "{slate.200}",
       "type": "color"
     },
     "dark": {
-      "value": "{Greyscale.Grey900}",
+      "value": "{slate.900}",
       "type": "color"
     },
     "darker": {
-      "value": "{Black}",
+      "value": "{black}",
       "type": "color"
     },
     "primary": {
-      "value": "{Cyan.Cyan800}",
+      "value": "{cyan.600}",
       "type": "color",
       "hover": {
         "value": "#006064",
@@ -36,15 +36,15 @@
       "description": "Buttons"
     },
     "primary-hover": {
-      "value": "{Cyan.Cyan900}",
+      "value": "{cyan.700}",
       "type": "color"
     },
     "primary-disabled": {
-      "value": "rgba(0,131,143,0.6)",
+      "value": "rgba(8,145,178,0.6)",
       "type": "color"
     },
     "warning": {
-      "value": "#d84315",
+      "value": "{orange.500}",
       "type": "color",
       "lighter": {
         "value": "#fbe9e7",
@@ -52,7 +52,7 @@
       }
     },
     "warning-lighter": {
-      "value": "#d84315",
+      "value": "{orange.600}",
       "type": "color",
       "lighter": {
         "value": "#fbe9e7",
@@ -60,7 +60,7 @@
       }
     },
     "error": {
-      "value": "#c62828",
+      "value": "{red.500}",
       "type": "color",
       "lighter": {
         "value": "#ffebee",
@@ -68,7 +68,7 @@
       }
     },
     "error-lighter": {
-      "value": "#c62828",
+      "value": "{red.600}",
       "type": "color",
       "lighter": {
         "value": "#ffebee",
@@ -76,96 +76,96 @@
       }
     },
     "secondary": {
-      "value": "{Greyscale.Grey400}",
+      "value": "{zinc.300}",
       "type": "color",
       "description": "Buttons"
     },
     "secondary-hover": {
-      "value": "{Greyscale.Grey500}",
+      "value": "{zinc.400}",
       "type": "color"
     }
   },
   "text": {
     "default": {
-      "value": "#171717",
+      "value": "{gray.900}",
       "type": "color",
       "description": "Text"
     },
     "lighter": {
-      "value": "#232323",
+      "value": "{gray.700}",
       "type": "color",
       "description": "Subtext"
     },
     "light": {
-      "value": "#333333",
+      "value": "{slate.600}",
       "type": "color"
     },
     "dark": {
-      "value": "#fafafa",
+      "value": "{slate.50}",
       "type": "color",
       "description": "Tooltip text"
     },
     "hover": {
-      "value": "#171717",
+      "value": "{slate.900}",
       "type": "color"
     },
     "onPrimary": {
-      "value": "{Cyan.Cyan800}",
+      "value": "{zinc.50}",
       "type": "color",
       "description": "Text on default background"
     },
     "secondary": {
-      "value": "{Greyscale.Grey900}",
+      "value": "{zinc.900}",
       "type": "color",
       "description": "Text on secondary background"
     },
     "secondary-hover": {
-      "value": "{Greyscale.Grey900}",
+      "value": "{zinc.900}",
       "type": "color"
     },
     "onPrimary-hover": {
-      "value": "{Cyan.Cyan900}",
+      "value": "{zinc.50}",
       "type": "color"
     },
     "onPrimary-disabled": {
-      "value": "rgba(255,255,255,0.6)",
+      "value": "rgba(250,250,250,0.6)",
       "type": "color",
       "description": "Text on default disabled background"
     }
   },
   "boarder": {
     "onDefault": {
-      "value": "#fff",
+      "value": "{white}",
       "type": "color",
       "description": "Boarder on default background"
     },
     "default": {
-      "value": "#dddddd",
+      "value": "{slate.100}",
       "type": "color",
       "description": "HR, forms"
     },
     "lighter": {
-      "value": "#eeeeee",
+      "value": "{slate.200}",
       "type": "color",
       "description": "Graphs"
     },
     "primary": {
-      "value": "{Cyan.Cyan800}",
+      "value": "{cyan.500}",
       "type": "color",
       "description": "Boarder on primary backgrounds"
     },
     "primary-hover": {
-      "value": "{Cyan.Cyan900}",
+      "value": "{cyan.700}",
       "type": "color",
       "description": "Boarder on primary background on hover"
     },
     "primary-focus": {
-      "value": "{Cyan.Cyan900}",
+      "value": "{cyan.900}",
       "type": "color",
       "description": "Boarder on primary backgrounds on focus"
     },
     "secondary": {
-      "value": "#777777",
+      "value": "{zinc.500}",
       "type": "color",
       "description": "Boarder on secondary backgrounds"
     },
@@ -188,19 +188,19 @@
   },
   "icon": {
     "default": {
-      "value": "#171717",
+      "value": "{slate.900}",
       "type": "color"
     },
     "disabled": {
-      "value": "#17171799",
+      "value": "rgba(15,23,42,0.6)",
       "type": "color"
     },
     "warning": {
-      "value": "#d84315",
+      "value": "{orange.500}",
       "type": "color"
     },
     "error": {
-      "value": "#c62828",
+      "value": "{red.500}",
       "type": "color",
       "disabled": {
         "value": "#c6282899",
@@ -208,20 +208,20 @@
       }
     },
     "onPrimary": {
-      "value": "{Cyan.Cyan800}",
+      "value": "{white}",
       "type": "color",
       "description": "Icon on default background"
     },
     "secondary": {
-      "value": "{Greyscale.Grey900}",
+      "value": "{slate.900}",
       "type": "color"
     },
     "secondary-hover": {
-      "value": "{Greyscale.Grey900}",
+      "value": "{slate.900}",
       "type": "color"
     },
     "onPrimary-hover": {
-      "value": "{Cyan.Cyan900}",
+      "value": "{white}",
       "type": "color",
       "description": "Icon on defalut background on hover"
     },
