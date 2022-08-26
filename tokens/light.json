@@ -1,0 +1,234 @@
+{
+  "background": {
+    "default": {
+      "value": "{Greyscale.Grey100}",
+      "type": "color",
+      "description": "Canvas"
+    },
+    "lighter": {
+      "value": "{White}",
+      "type": "color",
+      "description": "Cards"
+    },
+    "light": {
+      "value": "{Greyscale.Grey200}",
+      "type": "color"
+    },
+    "dark": {
+      "value": "{Greyscale.Grey900}",
+      "type": "color"
+    },
+    "darker": {
+      "value": "{Black}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{Cyan.Cyan800}",
+      "type": "color",
+      "hover": {
+        "value": "#006064",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "rgba(0,131,143,0.6)",
+        "type": "color"
+      },
+      "description": "Buttons"
+    },
+    "primary-hover": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color"
+    },
+    "primary-disabled": {
+      "value": "rgba(0,131,143,0.6)",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#d84315",
+      "type": "color",
+      "lighter": {
+        "value": "#fbe9e7",
+        "type": "color"
+      }
+    },
+    "warning-lighter": {
+      "value": "#d84315",
+      "type": "color",
+      "lighter": {
+        "value": "#fbe9e7",
+        "type": "color"
+      }
+    },
+    "error": {
+      "value": "#c62828",
+      "type": "color",
+      "lighter": {
+        "value": "#ffebee",
+        "type": "color"
+      }
+    },
+    "error-lighter": {
+      "value": "#c62828",
+      "type": "color",
+      "lighter": {
+        "value": "#ffebee",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "value": "{Greyscale.Grey400}",
+      "type": "color",
+      "description": "Buttons"
+    },
+    "secondary-hover": {
+      "value": "{Greyscale.Grey500}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "default": {
+      "value": "#171717",
+      "type": "color",
+      "description": "Text"
+    },
+    "lighter": {
+      "value": "#232323",
+      "type": "color",
+      "description": "Subtext"
+    },
+    "light": {
+      "value": "#333333",
+      "type": "color"
+    },
+    "dark": {
+      "value": "#fafafa",
+      "type": "color",
+      "description": "Tooltip text"
+    },
+    "hover": {
+      "value": "#171717",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{Cyan.Cyan800}",
+      "type": "color",
+      "description": "Text on default background"
+    },
+    "secondary": {
+      "value": "{Greyscale.Grey900}",
+      "type": "color",
+      "description": "Text on secondary background"
+    },
+    "secondary-hover": {
+      "value": "{Greyscale.Grey900}",
+      "type": "color"
+    },
+    "onPrimary-hover": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color"
+    },
+    "onPrimary-disabled": {
+      "value": "rgba(255,255,255,0.6)",
+      "type": "color",
+      "description": "Text on default disabled background"
+    }
+  },
+  "boarder": {
+    "onDefault": {
+      "value": "#fff",
+      "type": "color",
+      "description": "Boarder on default background"
+    },
+    "default": {
+      "value": "#dddddd",
+      "type": "color",
+      "description": "HR, forms"
+    },
+    "lighter": {
+      "value": "#eeeeee",
+      "type": "color",
+      "description": "Graphs"
+    },
+    "primary": {
+      "value": "{Cyan.Cyan800}",
+      "type": "color",
+      "description": "Boarder on primary backgrounds"
+    },
+    "primary-hover": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color",
+      "description": "Boarder on primary background on hover"
+    },
+    "primary-focus": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color",
+      "description": "Boarder on primary backgrounds on focus"
+    },
+    "secondary": {
+      "value": "#777777",
+      "type": "color",
+      "description": "Boarder on secondary backgrounds"
+    },
+    "warning": {
+      "value": "#d84315",
+      "type": "color",
+      "disabled": {
+        "value": "#d8431599",
+        "type": "color"
+      }
+    },
+    "error": {
+      "value": "#c62828",
+      "type": "color",
+      "disabled": {
+        "value": "#c6282899",
+        "type": "color"
+      }
+    }
+  },
+  "icon": {
+    "default": {
+      "value": "#171717",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "#17171799",
+      "type": "color"
+    },
+    "warning": {
+      "value": "#d84315",
+      "type": "color"
+    },
+    "error": {
+      "value": "#c62828",
+      "type": "color",
+      "disabled": {
+        "value": "#c6282899",
+        "type": "color"
+      }
+    },
+    "onPrimary": {
+      "value": "{Cyan.Cyan800}",
+      "type": "color",
+      "description": "Icon on default background"
+    },
+    "secondary": {
+      "value": "{Greyscale.Grey900}",
+      "type": "color"
+    },
+    "secondary-hover": {
+      "value": "{Greyscale.Grey900}",
+      "type": "color"
+    },
+    "onPrimary-hover": {
+      "value": "{Cyan.Cyan900}",
+      "type": "color",
+      "description": "Icon on defalut background on hover"
+    },
+    "onPrimary-disabled": {
+      "value": "rgba(255,255,255,0.6)",
+      "type": "color",
+      "description": "Icon on defalut background on hover"
+    }
+  }
+}
