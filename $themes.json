@@ -5,7 +5,9 @@
     "selectedTokenSets": {
       "dark tw": "disabled",
       "light tw": "enabled",
-      "global light tw": "source"
+      "global fs 2.0": "disabled",
+      "global tw": "source",
+      "light fs 2.0": "disabled"
     },
     "$figmaStyleReferences": {
       "background.default": "S:62b8ad9537409c07f4a2c75df0f0c6a59f5f1b8c,",
@@ -58,7 +60,9 @@
     "selectedTokenSets": {
       "dark tw": "enabled",
       "light tw": "disabled",
-      "global light tw": "source"
+      "global fs 2.0": "disabled",
+      "global tw": "source",
+      "light fs 2.0": "disabled"
     },
     "$figmaStyleReferences": {
       "background.default": "S:ffb10d4581ef366397f6b2ef151372b666eacd47,",
@@ -100,5 +104,17 @@
       "icon.secondary": "S:2d56bd6bbdfeb03a6368ddb3041443ef8d13695e,",
       "icon.secondary-hover": "S:99a114f6d3a8697a0c4358b96179f8761113b67b,"
     }
+  },
+  {
+    "id": "14599d2b545d4bc37865ea72c58b9f47460e435f",
+    "name": "light fs 2.0",
+    "selectedTokenSets": {
+      "global fs 2.0": "source",
+      "global tw": "disabled",
+      "dark tw": "disabled",
+      "light tw": "disabled",
+      "light fs 2.0": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

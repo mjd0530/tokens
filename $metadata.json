@@ -1,7 +1,9 @@
 {
   "tokenSetOrder": [
+    "global tw",
     "dark tw",
-    "global light tw",
-    "light tw"
+    "light tw",
+    "global fs 2.0",
+    "light fs 2.0"
   ]
 }
