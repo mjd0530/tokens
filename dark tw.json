@@ -128,7 +128,7 @@
       "type": "color"
     },
     "onPrimary-disabled": {
-      "value": "rgba(250,250,250,0.6)",
+      "value": "rgba(15,23,42,0.6)",
       "type": "color",
       "description": "Text on default disabled background"
     }
@@ -226,7 +226,7 @@
       "description": "Icon on defalut background on hover"
     },
     "onPrimary-disabled": {
-      "value": "rgba(255,255,255,0.6)",
+      "value": "rgba(15,23,42,0.6)",
       "type": "color",
       "description": "Icon on defalut background on hover"
     }
