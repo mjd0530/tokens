@@ -4,8 +4,8 @@
     "name": "dark",
     "selectedTokenSets": {
       "dark tw": "enabled",
-      "global tw": "source",
-      "light tw": "disabled"
+      "light tw": "disabled",
+      "global light tw": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,8 +14,8 @@
     "name": "light",
     "selectedTokenSets": {
       "dark tw": "disabled",
-      "global tw": "source",
-      "light tw": "enabled"
+      "light tw": "enabled",
+      "global light tw": "source"
     },
     "$figmaStyleReferences": {}
   }
