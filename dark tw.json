@@ -208,7 +208,7 @@
       }
     },
     "onPrimary": {
-      "value": "{slate.100}",
+      "value": "{slate.900}",
       "type": "color",
       "description": "Icon on default background"
     },
