@@ -2,11 +2,7 @@
   {
     "id": "7a0e6e98ffb438ab877b88ffdd56c0becc75d1fc",
     "name": "light",
-    "selectedTokenSets": {
-      "dark tw": "disabled",
-      "light tw": "enabled",
-      "global light tw": "source"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "background.default": "S:62b8ad9537409c07f4a2c75df0f0c6a59f5f1b8c,",
       "background.lighter": "S:5c8a4611e7f05ee0ec08c1680651391963afbb8e,",
@@ -55,11 +51,7 @@
   {
     "id": "398ce3438b17a08250e46db3a3a8a6bc8b8fc945",
     "name": "dark",
-    "selectedTokenSets": {
-      "dark tw": "enabled",
-      "light tw": "disabled",
-      "global light tw": "source"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "background.default": "S:ffb10d4581ef366397f6b2ef151372b666eacd47,",
       "background.lighter": "S:8be6f62554b3ca81f6a5533113ff6ac4c175cc87,",
