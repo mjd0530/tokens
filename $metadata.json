@@ -1,3 +1,9 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "global fs 2.0",
+    "light fs 2.0",
+    "global tw",
+    "light",
+    "dark"
+  ]
 }
