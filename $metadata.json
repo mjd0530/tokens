@@ -4,6 +4,9 @@
     "light fs 2.0",
     "global tw",
     "light",
-    "dark"
+    "dark",
+    "dark tw",
+    "global light tw",
+    "light tw"
   ]
 }
