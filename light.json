@@ -150,7 +150,7 @@
       "description": "Graphs"
     },
     "primary": {
-      "value": "{cyan.700}",
+      "value": "{cyan.500}",
       "type": "color",
       "description": "Boarder on primary backgrounds"
     },
