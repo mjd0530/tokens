@@ -40,7 +40,7 @@
       "type": "color"
     },
     "primary-disabled": {
-      "value": "rgba(14,116,144,0.6)",
+      "value": "rgba(8,145,178,0.6)",
       "type": "color"
     },
     "warning": {
@@ -76,7 +76,7 @@
       }
     },
     "secondary": {
-      "value": "{zinc.200}",
+      "value": "{zinc.100}",
       "type": "color",
       "description": "Buttons"
     },
@@ -150,7 +150,7 @@
       "description": "Graphs"
     },
     "primary": {
-      "value": "{cyan.500}",
+      "value": "{cyan.700}",
       "type": "color",
       "description": "Boarder on primary backgrounds"
     },
