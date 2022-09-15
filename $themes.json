@@ -1,17 +1,5 @@
 [
   {
-    "id": "e83fed101e3e0b72ff8d98d55e3dec9645ebb8b8",
-    "name": "light",
-    "selectedTokenSets": {
-      "global fs 2.0": "source",
-      "global tw": "source",
-      "light": "enabled",
-      "dark": "disabled",
-      "light fs 2.0": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "9453e767cfa44a1bbf247933f8478a8a841dea35",
     "name": "dark",
     "selectedTokenSets": {
@@ -34,5 +22,60 @@
       "light fs 2.0": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e83fed101e3e0b72ff8d98d55e3dec9645ebb8b8",
+    "name": "light",
+    "selectedTokenSets": {
+      "global fs 2.0": "disabled",
+      "global tw": "source",
+      "light": "enabled",
+      "dark": "disabled",
+      "light fs 2.0": "disabled"
+    },
+    "$figmaStyleReferences": {
+      "background.default": "S:733744b5ff9b32b172c7e113c93ec01793e52f52,",
+      "background.lighter": "S:658a6a3f246387d7a97e1dedfc3022d56961a4d9,",
+      "background.light": "S:ae2b8e00e7034d3e1c2cbf32882bd5946b16336b,",
+      "background.dark": "S:04ea66b87a84dc5462069985105f502c0466ed0f,",
+      "background.darker": "S:71a714e3f821af454168362e3ab8b66a2622cb7f,",
+      "background.primary": "S:146b6e6543f05624510a7c1e35c9b684813a4a4a,",
+      "background.primary-hover": "S:fea6e06ab472901b4fcdf2077c6987d802e82851,",
+      "background.primary-disabled": "S:0aa53747af4ec5648a58761ffd6df3ba4187f46e,",
+      "background.warning": "S:281d2a2707576f90b194c659623906e96e13c29e,",
+      "background.warning-lighter": "S:d469c07219558fb583fa97c5244fe12b2669e99b,",
+      "background.error": "S:7b9ad8aa4b95d106521d670e98746f0650c1e9b0,",
+      "background.error-lighter": "S:32f2a715472834b0e7ed61d99ea2189c90a20b72,",
+      "background.secondary": "S:11a2ae2763f7a77e9329f6ddff4e3f69d69e5d23,",
+      "background.secondary-hover": "S:075e7a2c6dc58e262bea2d536d983a82853efe7b,",
+      "text.default": "S:c85eed1867112a86f4fc40519ba0873adae8fceb,",
+      "text.lighter": "S:fd18b6c6a29711c27671fff67e475e055b594b84,",
+      "text.light": "S:9aa2166ced7e0ce5bda539e3ab9fc98b65949ffc,",
+      "text.dark": "S:0a673d5465758c5e599816a1e9969f7e24596feb,",
+      "text.hover": "S:80092d2ad0b7fa48c2aa0f18f36932f32e454324,",
+      "text.onPrimary": "S:83f7696974d775c6c60714bf2254b56ca693defd,",
+      "text.secondary": "S:7ce8318a54f80feab8dd6dcc1d66418644c28b66,",
+      "text.secondary-hover": "S:0bd802c2a56fbe0d29ac09355f8bf062ebad6032,",
+      "text.onPrimary-hover": "S:d3b828f70401e5c114d520738b8f775916871dde,",
+      "text.onPrimary-disabled": "S:22728b45ce55f4382cf43eb2c9df07446cd07cd2,",
+      "boarder.onDefault": "S:836f07e89b9364bdcced06f7b760bca28c0dc623,",
+      "boarder.default": "S:3b6e476215ae8a3084efcddd3f35e63f7b3982e3,",
+      "boarder.lighter": "S:ace86068d01a5b86b86f807aea1dae9aac3892a3,",
+      "boarder.primary": "S:f9e6628bcf80f78e7a986ab1ddaa10d18cdcd207,",
+      "boarder.primary-hover": "S:e3f84dbfdffcd26bf417bea23dc3f9830e9ecfde,",
+      "boarder.primary-focus": "S:d8a9ae4a489a134263543bebabe97f6a6b5fc0f6,",
+      "boarder.secondary": "S:82f5024896277f1be3afe9909b2ef4bd8f1f1401,",
+      "boarder.warning": "S:8b1d90b427bff1a91ca74cbb4516e5f0e3458ce1,",
+      "boarder.error": "S:f01e7f847060bed801f20fdf9fbb170268564076,",
+      "icon.default": "S:b2899fbfe684f13a83a49c9be21af48ddc8df439,",
+      "icon.disabled": "S:6c17eb872b83b356fe221a33ec5e1dea7a9327dc,",
+      "icon.warning": "S:bcf31ba3019963ea9d14595545e2c7fda11a29b7,",
+      "icon.error": "S:d4967b27d44a31f23ee06a6aa2ab6f952084b92b,",
+      "icon.onPrimary": "S:8c5d069cdba4a1c782fb205f162f2cf1f572b8c7,",
+      "icon.secondary": "S:57770b4d796c09905acc3efbd8dc0e0825a38f04,",
+      "icon.secondary-hover": "S:c057b7253d53c8d288e3b15592b27084c651593f,",
+      "icon.onPrimary-hover": "S:bc4a916b3ba1878573e05278e42f3eb447a2fdc7,",
+      "icon.onPrimary-disabled": "S:b1bd47483d30781a567712d8ac1f7efe5932db9f,"
+    }
   }
 ]

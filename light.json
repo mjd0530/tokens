@@ -11,7 +11,7 @@
       "description": "Cards"
     },
     "light": {
-      "value": "{slate.200}",
+      "value": "{slate.100}",
       "type": "color"
     },
     "dark": {
@@ -23,7 +23,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{cyan.600}",
+      "value": "{cyan.700}",
       "type": "color",
       "hover": {
         "value": "#006064",
@@ -36,7 +36,7 @@
       "description": "Buttons"
     },
     "primary-hover": {
-      "value": "{cyan.700}",
+      "value": "{cyan.800}",
       "type": "color"
     },
     "primary-disabled": {
@@ -76,7 +76,7 @@
       }
     },
     "secondary": {
-      "value": "{zinc.300}",
+      "value": "{zinc.200}",
       "type": "color",
       "description": "Buttons"
     },
@@ -150,7 +150,7 @@
       "description": "Graphs"
     },
     "primary": {
-      "value": "{cyan.500}",
+      "value": "{cyan.700}",
       "type": "color",
       "description": "Boarder on primary backgrounds"
     },
@@ -196,11 +196,11 @@
       "type": "color"
     },
     "warning": {
-      "value": "{orange.500}",
+      "value": "{orange.600}",
       "type": "color"
     },
     "error": {
-      "value": "{red.500}",
+      "value": "{red.600}",
       "type": "color",
       "disabled": {
         "value": "#c6282899",
