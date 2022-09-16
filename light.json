@@ -174,7 +174,7 @@
       "description": "Boarder on secondary backgrounds"
     },
     "warning": {
-      "value": "{orange.600}",
+      "value": "{orange.700}",
       "type": "color",
       "disabled": {
         "value": "#d8431599",
