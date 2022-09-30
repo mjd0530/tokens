@@ -1132,6 +1132,11 @@
     "value": "140%",
     "type": "lineHeights"
   },
+  "border-radius-xlg": {
+    "value": "100",
+    "type": "borderRadius",
+    "description": "Buttons"
+  },
   "line-height-h5": {
     "value": "150%",
     "type": "lineHeights"
