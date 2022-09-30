@@ -7,6 +7,8 @@
     "dark",
     "dark tw",
     "global light tw",
-    "light tw"
+    "light tw",
+    "ant tokens dark",
+    "ant tokens light"
   ]
 }

@@ -52,58 +52,6 @@
         "description": "Title / Primary Text"
       }
     },
-    "Primary": {
-      "primary-1": {
-        "value": "{Daybreak Blue.blue-1}",
-        "type": "color",
-        "description": "Selected background color"
-      },
-      "primary-2": {
-        "value": "{Daybreak Blue.blue-2}",
-        "type": "color",
-        "description": "-"
-      },
-      "primary-3": {
-        "value": "{Daybreak Blue.blue-3}",
-        "type": "color",
-        "description": "Border"
-      },
-      "primary-4": {
-        "value": "{Daybreak Blue.blue-4}",
-        "type": "color",
-        "description": "-"
-      },
-      "primary-5": {
-        "value": "{Daybreak Blue.blue-5}",
-        "type": "color",
-        "description": "Hover"
-      },
-      "primary-6": {
-        "value": "{Daybreak Blue.blue-6}",
-        "type": "color",
-        "description": "Normal"
-      },
-      "primary-7": {
-        "value": "{Daybreak Blue.blue-7}",
-        "type": "color",
-        "description": "Click"
-      },
-      "primary-8": {
-        "value": "{Daybreak Blue.blue-8}",
-        "type": "color",
-        "description": "-"
-      },
-      "primary-9": {
-        "value": "{Daybreak Blue.blue-9}",
-        "type": "color",
-        "description": "-"
-      },
-      "primary-10": {
-        "value": "{Daybreak Blue.blue-10}",
-        "type": "color",
-        "description": "-"
-      }
-    },
     "Dust Red": {
       "red-1": {
         "value": "#fff1f0",
