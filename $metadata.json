@@ -9,6 +9,8 @@
     "global light tw",
     "light tw",
     "ant tokens dark",
-    "ant tokens light"
+    "ant tokens light",
+    "ant dark  mod",
+    "ant light mod"
   ]
 }

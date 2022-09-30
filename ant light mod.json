@@ -848,7 +848,7 @@
     "description": "Used in an error state of all inputs"
   },
   "font-family": {
-    "value": "SF Pro Text",
+    "value": "Roboto",
     "type": "fontFamilies"
   },
   "line-height-base": {
